@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun May 24 13:55:50 CST 2020
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1590299750662
+https\://raw.githubusercontent.com/wade-git/mvnrepo/master/.error=Could not transfer artifact com.srcexp\:common-utils\:pom\:0.0.1 from/to mvnrepo (https\://raw.githubusercontent.com/wade-git/mvnrepo/master/)\: raw.githubusercontent.com
+@default-mvnrepo-https\://raw.githubusercontent.com/wade-git/mvnrepo/master/.lastUpdated=1590299742229
+https\://repo.maven.apache.org/maven2/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1590299746825
